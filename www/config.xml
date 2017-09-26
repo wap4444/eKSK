@@ -5,13 +5,13 @@
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
- id        = "kz.ekskaksu"
+ id        = "kz.smarthome.ekibastuz"
       version   = "1.3.0">
 
     <name>Умный Дом Аксу</name>
 
     <description>
-Мобильное приложение для жителей города Аксу
+Мобильное приложение для жителей города Экибастуз
     </description>
 
     <author href="http://phonegap.com" email="elegant4444@gmail.com">
