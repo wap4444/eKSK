@@ -8,10 +8,10 @@
  id        = "kz.ekskaksu"
       version   = "1.4.2">
 
-    <name>Умный Дом Аксу</name>
+    <name>Умный Дом</name>
 
     <description>
-Мобильное приложение для жителей города Аксу
+Мобильное приложение для жителей города Павлодар
     </description>
 
     <author href="http://phonegap.com" email="elegant4444@gmail.com">
