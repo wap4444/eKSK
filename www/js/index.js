@@ -46,7 +46,7 @@ rr=2;
 
         //ПОДКЛЮЧЕНИЕ ПУШЕЙ
            window.plugins.OneSignal
-          .startInit("5edd010b-8e89-4860-8835-cfab570394a0")
+          .startInit("78520dbf-0cbd-41b3-aed3-1f27aba825e9")
           .handleNotificationReceived(didReceiveRemoteNotificationCallBack)
           .handleNotificationOpened(didOpenRemoteNotificationCallBack)
               .inFocusDisplaying(window.plugins.OneSignal.OSInFocusDisplayOption.None)
@@ -57,7 +57,7 @@ rr=2;
                     ipush = ids.userId;
             if(rr==1)
             {
-            var ref = cordova.InAppBrowser.open('http://smart-pavlodar.kz/pavlodar/project_ksk/index.html?push='+ipush, '_blank', 'location=no,toolbar=no,disallowoverscroll=yes');
+            var ref = cordova.InAppBrowser.open('http://smartaksu.kz/pavlodar/project_ksk/index.html?push='+ipush, '_blank', 'location=no,toolbar=no,disallowoverscroll=yes');
             }       
             });
         
